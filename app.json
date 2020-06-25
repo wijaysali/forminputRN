@@ -1,0 +1,17 @@
+{
+  "name": "rnprojects",
+  "displayName": "rnprojects",
+  "expo": {
+    "name": "rnprojects",
+    "slug": "rnprojects",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
